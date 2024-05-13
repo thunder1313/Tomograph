@@ -1,3 +1,5 @@
+### Cel projektu
+Projekt ma na celu zasymulowanie działania tomografu przy założeniu stożkowego modelu tomografu.
 ### Instalacja potrzebnych bibliotek
 ```
 pip install opencv-python
